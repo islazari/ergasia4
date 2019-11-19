@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Sakis/Documents/NetBeansProjects/WebApplication1/src/java/com/islazari/service/BaseService.java</file>
+            <file>file:/C:/Users/Sakis/Documents/NetBeansProjects/WebApplication1/src/java/com/islazari/dao/BaseDao.java</file>
+            <file>file:/C:/Users/Sakis/Documents/NetBeansProjects/WebApplication1/web/home.jsp</file>
+            <file>file:/C:/Users/Sakis/Documents/NetBeansProjects/WebApplication1/web/login.jsp</file>
+            <file>file:/C:/Users/Sakis/Documents/NetBeansProjects/WebApplication1/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Sakis/Documents/NetBeansProjects/WebApplication1/src/java/com/islazari/service/BaseServiceImpl.java</file>
+            <file>file:/C:/Users/Sakis/Documents/NetBeansProjects/WebApplication1/src/java/com/islazari/dao/BaseDaoImpl.java</file>
+            <file>file:/C:/Users/Sakis/Documents/NetBeansProjects/WebApplication1/web/userRegistration.jsp</file>
+            <file>file:/C:/Users/Sakis/Documents/NetBeansProjects/WebApplication1/src/java/com/islazari/controller/RegistrationController.java</file>
+            <file>file:/C:/Users/Sakis/Documents/NetBeansProjects/WebApplication1/src/java/com/islazari/pojo/User.java</file>
+            <file>file:/C:/Users/Sakis/Documents/NetBeansProjects/WebApplication1/src/java/com/islazari/config/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/Sakis/Documents/NetBeansProjects/WebApplication1/src/java/com/islazari/config/User.hbm.xml</file>
+            <file>file:/C:/Users/Sakis/Documents/NetBeansProjects/WebApplication1/web/index.html</file>
+            <file>file:/C:/Users/Sakis/Documents/NetBeansProjects/WebApplication1/src/java/com/islazari/controller/LoginController.java</file>
+            <file>file:/C:/Users/Sakis/Documents/NetBeansProjects/WebApplication1/src/java/com/islazari/util/HibernateUtil.java</file>
+        </group>
+    </open-files>
+</project-private>
